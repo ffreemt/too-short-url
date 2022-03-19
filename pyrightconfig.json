@@ -1,0 +1,11 @@
+{
+  "include": ["tests", "too_short_url"],
+  "venvPath": ".venv/Scripts",
+  "reportTypeshedErrors": false,
+  "reportMissingImports": true,
+  "reportMissingTypeStubs": false,
+
+  "pythonVersion": "3.8",
+
+  "ignore": []
+}
